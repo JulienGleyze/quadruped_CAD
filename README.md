@@ -1,3 +1,3 @@
-## This repo contains the kicad project for my actuator's pcb controller, actuator image below
+## This repo contains the CAD files for my quadruped projects, image below
 
-![Alt text](actuator.JPG)
+![Alt text](quad.JPG)
