@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"50-04062019-077702";"";
+"REFERENCE";"BAF682AZZ";"";
+"TraceParts.PartTitle";"Bearing and Bearing Base Components-Ball Bearing with Flange(Small Diameter & Deep Groove)-Double Lids Type-BAF682ZZ Series";"";
+"TraceParts.InstanceId";"50-04062019-077702DPFDQ4TSPSU7QUHGNF95WJS2S";"";
+"DESIGN";"Bearing and Bearing Base Components-Ball Bearing with Flange(Small Diameter & Deep Groove)-Double Lids Type- BAF682AZZ";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Shenzhen Shiruida Automation Equipment Co.,Ltd.";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SHIRUIDA:50-04062019-077702";"";
